@@ -27,7 +27,7 @@
 
 SoftwareSerial Herm(12, 10); // RX, TX
 
-char aa[100],dd[20];
+char aa[100],dd[64];
 String aaa;
 long unsigned fq;
 int band;
